@@ -1,5 +1,5 @@
 准备：
-1、找到rk3588 npu官方文档（本项目基于2.0版本，下载时应下载2.0版本，不然模型不能正常加载，推理），并下载
+1、找到rk3588 npu官方文档（本项目基于2.0版本，下载时应下载2.0版本，不然模型不能正常加载，推理），并下载（链接：https://github.com/rockchip-linux/rknpu2）
 
 2、找到 rknn-toolkit2-master\rknn-toolkit2-master\rknn-toolkit2\packages 下的txt文件，找到对应版本的txt文件，文件名cp XY 即表示python的版本是X.Y
 
