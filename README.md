@@ -43,7 +43,9 @@ pycharm远程连接
 0、在windows系统打开本项目文件
 1、找到如下图所示，点击ON SHH
 
-![屏幕截图 2024-07-11 211557](https://github.com/deeper-roots/rk3588example/assets/61220762/79f5d06c-c77f-49b4-90c8-f2da0d05541c)
+
+
+![屏幕截图 2024-07-11 211557](https://github.com/user-attachments/assets/16a460ed-8c7c-4453-982c-62c7fc7927d8)
 
 
 2、输入rk2588平台的ip（填写在host那一栏），username那一栏填写linux的用户名
@@ -53,7 +55,8 @@ pycharm远程连接
 
 3、输入用户名对应的密码
 
-![屏幕截图 2024-07-11 211857](https://github.com/deeper-roots/rk3588example/assets/61220762/e89a57d1-d1a8-40c9-b3b7-700af6c745aa)
+
+![屏幕截图 2024-07-11 211857](https://github.com/user-attachments/assets/5505c3cc-cb72-4d3d-bb7c-01f04d18b87a)
 
 
 4、完成连接后，选择python解释器（一定要找安装好rk3588包对应的解释器，如果是直接安装，则默认即可，如果是通过conda创建的虚拟环境，需要找到对应的python.exe的路径）
@@ -66,7 +69,8 @@ pycharm远程连接
 
 6、右击项目文件夹，找到deployment，选择第一个upload to  XXXXXXXX
 
-![屏幕截图 2024-07-11 212845](https://github.com/deeper-roots/rk3588example/assets/61220762/33cd3ad5-0b26-4eff-baec-9192b1f1976d)
+![屏幕截图 2024-07-11 212845](https://github.com/user-attachments/assets/df97c883-cc97-48c1-a88d-4d76ca9cafc2)
+
 
 
  7、点击运行，即可在rk3588平台运行程序
